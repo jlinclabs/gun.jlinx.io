@@ -1,0 +1,18 @@
+{
+  "name": "gun.jlinx.io",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Gun.js server",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "gun": "^0.2020.1239"
+  }
+}
